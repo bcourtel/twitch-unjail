@@ -5,6 +5,10 @@ Application can either be controlled via command line arguments or by entering d
 
 > Hint: CLI arguments have changed since RC3, please use the --url or --file argument !
 
+# bcourtel's fork
+
+Forked to use the Twitch GQL API. Dirty fix (I don't use .NET), see commits.
+
 # Downloads
 
 - [v1.0-rc6 windows x64](https://github.com/swent/twitch-unjail/releases/download/v1.0-rc6/twitch-unjail-1.0-rc6-win64.exe)
